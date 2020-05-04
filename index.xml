@@ -12,6 +12,15 @@
     
     
     <item>
+      <title></title>
+      <link>https://interkosmos.org/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://interkosmos.org/data/</guid>
+      <description>   // var S3BL_IGNORE_PATH = true; //var BUCKET_NAME = &#39;data.interkosmos.org&#39;; var BUCKET_URL = &#39;https://data.interkosmos.org&#39;; // var S3B_ROOT_DIR = &#39;SUBDIR_L1/SUBDIR_L2/&#39;; // var S3B_SORT = &#39;DEFAULT&#39;; // var EXCLUDE_FILE = &#39;index.html&#39;; // change to array to exclude multiple files var AUTO_TITLE = true; // var S3_REGION = &#39;s3&#39;; // for us-east-1   </description>
+    </item>
+    
+    <item>
       <title>Test post</title>
       <link>https://interkosmos.org/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
